@@ -17,7 +17,11 @@ import { BioSection, BioYear } from '../components/bio'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
-import { IoLogoTwitter, IoLogoInstagram, IoLogoGithub, IoLogoYoutube, IoLogoDesignernews } from 'react-icons/io5'
+import { 
+  
+   IoLogoInstagram,
+   
+    IoLogoYoutube, IoLogoDesignernews } from 'react-icons/io5'
 import thumbYouTube from '../public/images/links/NFT Collection Website Using React Js.png'
 import thumbInkdrop from '../public/images/works/Screenshot 2023-07-04 at 8.55.28 PM.png'
 import Image from 'next/image'

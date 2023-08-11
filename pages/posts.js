@@ -5,12 +5,8 @@ import { GridItem } from '../components/grid-item'
 
 import thumbPortfolio from '../public/images/links/NFT Collection Website Using React Js.png'
 import thumbHowToUseInkdrop from '../public/images/contents/g.png'
-import thumbFishWorkflow from '../public/images/contents/youtube-fish-workflow.jpg'
-import thumbMyDeskSetup from '../public/images/contents/youtube-my-desk-setup.jpg'
 import thumb500PaidUsers from '../public/images/contents/Screenshot 2023-07-04 at 7.24.16 PM.png'
 import thumbFinancialGoal from '../public/images/contents/blog-financial-goal.png'
-import thumbHowToPriceYourself from '../public/images/contents/blog-how-to-price-yourself.jpg'
-import thumb50xFaster from '../public/images/contents/youtube-50x-faster.jpg'
 
 const Posts = () => (
   <Layout title="Posts">
